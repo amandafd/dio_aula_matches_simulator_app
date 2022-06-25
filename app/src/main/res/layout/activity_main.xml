@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-        android:id="@+id/srlmatches"
+        android:id="@+id/srlMatches"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -21,6 +21,7 @@
             android:layout_height="match_parent"
             tools:listitem="@layout/match_item"
             tools:itemCount="3"/>
+
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -33,4 +34,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/ic_simulate" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
