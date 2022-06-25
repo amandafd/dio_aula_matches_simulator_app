@@ -5,7 +5,7 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
 1. Desenvolvimento Mobile Nativo Para Android
    - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/amandafd/dio_aula_desenvolvimento_mobile_nativo_com_android/tree/release/desenvolvimento-mobile-nativo-para-android)
 2. Componentes, Layouts e UI/UX Em Apps Android
-   - release/componentes-layouts-ui-ux-em-apps-android
+   - [release/componentes-layouts-ui-ux-em-apps-android]9https://github.com/amandafd/dio_aula_desenvolvimento_mobile_nativo_com_android/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
    - release/java-e-kotlin-juntos-construindo-apps-android
 4. Explorando o Firebase Para Apps Android Resilientes
