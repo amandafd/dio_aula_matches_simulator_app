@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_aula_desenvolvimento_mobile_nativo_com_android/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_aula_desenvolvimento_mobile_nativo_com_android/app/src/main/res/drawable/ic_simulate.xml" value="0.124" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_aula_desenvolvimento_mobile_nativo_com_android/app/src/main/res/layout/activity_detail.xml" value="0.176" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_aula_desenvolvimento_mobile_nativo_com_android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/amand/projects/dio_alura_etc/dio/dio_aula_desenvolvimento_mobile_nativo_com_android/app/src/main/res/layout/match_item.xml" value="0.30393996247654786" />
       </map>
     </option>
   </component>
@@ -12,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
   </component>
 </project>
