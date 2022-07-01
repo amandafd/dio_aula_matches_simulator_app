@@ -7,6 +7,6 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
 2. Componentes, Layouts e UI/UX Em Apps Android
    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/amandafd/dio_aula_desenvolvimento_mobile_nativo_com_android/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
-   - release/java-e-kotlin-juntos-construindo-apps-android
+   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/amandafd/dio_aula_matches_simulator_app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
 4. Explorando o Firebase Para Apps Android Resilientes
    - release/explorando-o-firebase-para-apps-android-resilientes
