@@ -29,16 +29,15 @@ public class Place implements Parcelable {
 
     public static final Creator<Place> CREATOR = new Creator<Place>() {
         @Override
-        public Place createFromParcel(Parcel source) {
-            return null;
+        public Place createFromParcel(Parcel in) {
+            return new Place(in);
         }
 
         @Override
         public Place[] newArray(int size) {
-            return new Place[0];
+            return new Place[size];
         }
     };
-
 
     public String getName() {
         return name;
